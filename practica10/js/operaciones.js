@@ -22,4 +22,4 @@ $("#res").click(() =>{
     let c = a-b
     $("#c").val(c)
 });
- 
+ //obigame
