@@ -1,0 +1,13 @@
+.emoji{
+    width: 33px;
+    height: 33px;
+    background: url('img/emoji.jpeg');
+}
+.visor{
+    height: 20px;
+    width: 20px;
+}
+.p1
+{
+    background-position-x: 67px;
+}

@@ -1,0 +1,21 @@
+.plantilla{
+    margin: 0 auto;
+    width: 400px;
+    height: 360px;
+    background-image: url("img/tablero1.png");
+    background-size: cover;
+}
+.linea{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 2.4rem;
+}
+.cuadro.linea{
+    width: 80px;
+    height: 80px;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}

@@ -1,0 +1,47 @@
+.cuerpo{
+    width: 100px;
+    height: 200px;
+    position: relative;
+}
+.top{
+    width: 100px;
+    height: 50px;
+    background-color: #4ad4de;
+    border-radius: 50%;
+    position: absolute;
+    z-index: 10;
+    top: 150px;
+}
+.middle{
+    width: 100px;
+    height: 50px;
+    background-color: #90aef8;
+    border-radius: 50%;
+    position: absolute;
+    z-index: 10;
+}
+.rec{
+    width: 100px;
+    height: 150px;
+    background-color: #23A1e8;
+    position: absolute;
+    top: 25px;
+}
+.load
+{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    background-color: red;
+    border-radius: 50%;
+    z-index: 100;
+    background-color: #651cff;
+}
+.load2{
+    width: 100px;
+    height: 73px; 
+    background-color: #1cc5ff;
+    position: absolute;
+    z-index: 1;
+    top: 25px;
+}

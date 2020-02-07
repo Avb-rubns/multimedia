@@ -1,0 +1,42 @@
+.contenedor{
+    display: flex;
+    width: 361px;
+    //background-color: blue;
+    height: 190px;
+    margin: 0 auto;
+    padding: 78px 0 0 0;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, .24);
+}
+
+.derp{
+    //float: left;
+    height: 130px;
+    margin: 28px 0 0 0;
+    padding: 16px 0 0 0;
+}
+.izqp{
+    //float: left;
+    height: 130px;
+    margin: 28px 0 0 0;
+    //background-color: red;
+    padding: 16px 0 0 0;
+}
+.img{
+    border-radius: 18px;
+}
+.figuras{
+    //float: left;
+    padding: 5px 5px 5px 5px;
+}
+.caja{
+    display: flex;
+    min-width: 200px;
+}
+#text{
+    position: absolute;
+    margin: 0 auto;
+    top: 15px;
+    font-size: 50px;
+    left: 0;
+    right: 0;
+}
